@@ -1,0 +1,14 @@
+
+# Large data files
+data_2022.csv
+Data_For_Visualization_2022*.csv
+filtered_data_2022*.csv
+numerical_data_2022*.csv
+*_model_*.pkl
+random_forest_model*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
